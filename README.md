@@ -23,7 +23,7 @@ A modern, user-friendly cargo tracking application! Instantly track the status o
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.png)![Screenshot](screenshots.png)
 
 ## Installation
 
